@@ -26,3 +26,7 @@ In this repository, I am going to build a beautiful GUI based digital clock usin
     
  
  ### Note: Advanced Version will be uploaded in Private Github
+ 
+ It will be looked like this ->
+ 
+ <img src=https://github.com/SaadAhmedSalim/DigitalClock/blob/master/Digital_Clock/clock_full.png>
