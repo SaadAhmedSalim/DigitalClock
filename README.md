@@ -2,6 +2,8 @@
 
 In this repository, I am going to build a beautiful GUI based digital clock using the python Tkinter module.
 
+<img src=https://github.com/SaadAhmedSalim/DigitalClock/blob/master/Digital_Clock/clock.png>
+
 ## Requirements 
     
     Python
@@ -22,4 +24,5 @@ In this repository, I am going to build a beautiful GUI based digital clock usin
     
     #DF002A ->Pure Red
     
-      
+ 
+ ### Note: Advanced Version will be uploaded in Private Github
